@@ -1,5 +1,5 @@
 # cassandra-java-basic-programs
-Basic Java programs for Cassandra Integration - Keyspace, ColumnFamily, Data Operations.
+Basic Java programs (API usage) for Cassandra Integration - Keyspace, ColumnFamily, Data Operations.
 In Cassandra Data Model, Table or ColumnFamily means the same.
 
 
